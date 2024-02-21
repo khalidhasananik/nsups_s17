@@ -1,0 +1,1 @@
+{"name":"Local: solution","url":"c:\\Users\\ANIK\\Desktop\\codes\\nsu-ps_s17\\solution.cpp","tests":[{"id":1705680945959,"input":"3\n265\n111\n1234","output":"3 5\n6 3\n5 5"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\ANIK\\Desktop\\codes\\nsu-ps_s17\\solution.cpp","group":"local","local":true}
