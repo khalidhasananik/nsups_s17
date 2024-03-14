@@ -1,0 +1,1 @@
+{"name":"Local: w3","url":"c:\\Users\\ANIK\\Desktop\\nsu-ps_s17\\w3.cpp","tests":[{"id":1710401410564,"input":"3\n3 1\n4 6 2\n4 2\n-1 0 2 1\n5 2\n1 7 -4 2 -3\n","output":"8\n4\n17\n"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\ANIK\\Desktop\\nsu-ps_s17\\w3.cpp","group":"local","local":true}

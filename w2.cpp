@@ -104,17 +104,46 @@ void primeFactors(int n, int k)
     }
 }
 
+void somFunc(int b)
+{
+    int a = 0;
+    {
+        a = 1;
+        {
+            a = 2;
+            {
+                a = 3;
+
+                cout << a << endl;
+            }
+        }
+    }
+
+    int x = 10;
+
+    if (x > 10)
+
+        cout << "hello" << endl;
+
+    while (x > 10)
+    {
+        cout << "hello" << endl;
+    }
+}
+
 void Y();
 
 signed main()
 {
     fast_io;
 
-    // std_io;
+    std_io;
 
     // sieve();
 
-    Y();
+    // Y();
+
+    somFunc(0);
 }
 
 void Y()
